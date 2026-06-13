@@ -16,14 +16,13 @@ Fresh Software Engineering graduate from the University of Hail (GPA: 3.917/4.0,
 
 ###  Tech I Work With
 
-**Languages:** C# · Python · JavaScript · SQL
-**Backend:** ASP.NET Core · Flask · FastAPI · Entity Framework
-**Frontend:** React.js
-**AI / APIs:** Google Gemini 2.5 Flash · Groq (Llama-3.3-70B) · RESTful API design · Prompt Engineering
-**Databases:** SQL Server · SQLite
-**Tools:** Azure DevOps · Git · Swagger · Visual Studio
-
-**Methodologies:** Agile / Scrum · Clean Architecture · Requirements Engineering
+- **Languages:** C# · Python · JavaScript · SQL
+- **Backend:** ASP.NET Core · Flask · FastAPI · Entity Framework
+- **Frontend:** React.js
+- **AI / APIs:** Google Gemini 2.5 Flash · Groq (Llama-3.3-70B) · RESTful API design · Prompt Engineering
+- **Databases:** SQL Server · SQLite
+- **Tools:** Azure DevOps · Git · Swagger · Visual Studio
+- **Methodologies:** Agile / Scrum · Clean Architecture · Requirements Engineering
 
 ---
 
