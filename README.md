@@ -14,7 +14,7 @@ Fresh Software Engineering graduate from the University of Hail (GPA: 3.917/4.0,
 
 ---
 
-### 🛠️ Tech I Work With
+###  Tech I Work With
 
 **Languages:** C# · Python · JavaScript · SQL
 **Backend:** ASP.NET Core · Flask · FastAPI · Entity Framework
@@ -27,7 +27,7 @@ Fresh Software Engineering graduate from the University of Hail (GPA: 3.917/4.0,
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
 - **[Agent Salem](https://github.com/SalemAlgh111/user-story-standardize)** — AI-powered User Story Unification System (FastAPI + React + Groq Llama-3.3-70B)
 - **[EduCAS Backend](https://github.com/SalemAlgh111/educas-backend)** — Flask REST API integrating Google Gemini 2.5 Flash for educational content analysis
@@ -36,7 +36,7 @@ Fresh Software Engineering graduate from the University of Hail (GPA: 3.917/4.0,
 
 ---
 
-### 📫 Reach Me
+###  Reach Me
 
 - **Email:** onlysalem1@gmail.com
 - **LinkedIn:** [salem-alghassab](https://linkedin.com/in/salem-alghassab-a1015a294)
@@ -48,7 +48,7 @@ Fresh Software Engineering graduate from the University of Hail (GPA: 3.917/4.0,
 
 ---
 
-### 🎯 What I'm About
+###  What I'm About
 
 - **6-month internship at the Ministry of Justice (Najiz)** — Business Analysis & Backend track within the Najiz Core Web team
 - **Built an AI agent ("Agent Salem")** during my internship that converts free-form Arabic requirements into standardized Azure DevOps User Stories
@@ -56,7 +56,7 @@ Fresh Software Engineering graduate from the University of Hail (GPA: 3.917/4.0,
 
 ---
 
-### 🛠️ Tech I Work With
+###  Tech I Work With
 
 **Languages:** C# · Python · JavaScript · SQL
 **Backend:** ASP.NET Core · Flask · FastAPI · Entity Framework
