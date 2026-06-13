@@ -1,6 +1,6 @@
 # Hi, I'm Salem 
 
-**Software Engineer · Riyadh, Saudi Arabia**
+**Software Engineer · Riyadh/Hail, Saudi Arabia**
 
 Fresh Software Engineering graduate from the University of Hail (GPA: 3.917/4.0, First Class Honors). I build full-stack applications and integrate AI into real-world workflows.
 
